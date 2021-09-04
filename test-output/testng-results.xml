@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Sign Up]]>
+    </line>
+    <line>
+      <![CDATA[Log In]]>
+    </line>
+    <line>
+      <![CDATA[Messenger]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Lite]]>
+    </line>
+    <line>
+      <![CDATA[Watch]]>
+    </line>
+    <line>
+      <![CDATA[Places]]>
+    </line>
+    <line>
+      <![CDATA[Games]]>
+    </line>
+    <line>
+      <![CDATA[Marketplace]]>
+    </line>
+    <line>
+      <![CDATA[Facebook Pay]]>
+    </line>
+    <line>
+      <![CDATA[Jobs]]>
+    </line>
+    <line>
+      <![CDATA[Oculus]]>
+    </line>
+    <line>
+      <![CDATA[Portal]]>
+    </line>
+    <line>
+      <![CDATA[Instagram]]>
+    </line>
+    <line>
+      <![CDATA[Local]]>
+    </line>
+    <line>
+      <![CDATA[Fundraisers]]>
+    </line>
+    <line>
+      <![CDATA[Services]]>
+    </line>
+    <line>
+      <![CDATA[Voting Information Centre]]>
+    </line>
+    <line>
+      <![CDATA[About]]>
+    </line>
+    <line>
+      <![CDATA[Create ad]]>
+    </line>
+    <line>
+      <![CDATA[Create Page]]>
+    </line>
+    <line>
+      <![CDATA[Developers]]>
+    </line>
+    <line>
+      <![CDATA[Careers]]>
+    </line>
+    <line>
+      <![CDATA[Privacy]]>
+    </line>
+    <line>
+      <![CDATA[Cookies]]>
+    </line>
+    <line>
+      <![CDATA[AdChoices]]>
+    </line>
+    <line>
+      <![CDATA[Terms]]>
+    </line>
+    <line>
+      <![CDATA[Help]]>
+    </line>
+    <line>
+      <![CDATA[Settings]]>
+    </line>
+    <line>
+      <![CDATA[Activity log]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-09-04T15:08:41 IST" name="Facebook" finished-at="2021-09-04T15:11:34 IST" duration-ms="172530">
+    <groups>
+    </groups>
+    <test started-at="2021-09-04T15:08:41 IST" name="ChromeTest" finished-at="2021-09-04T15:11:34 IST" duration-ms="172530">
+      <class name="com.fb.login.TC005">
+        <test-method is-config="true" signature="browserOpen(java.lang.String)[pri:0, instance:com.fb.login.TC005@4bb33f74]" started-at="2021-09-04T15:08:42 IST" name="browserOpen" finished-at="2021-09-04T15:11:15 IST" duration-ms="153189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="tc004()[pri:0, instance:com.fb.login.TC005@4bb33f74]" started-at="2021-09-04T15:11:15 IST" name="tc004" finished-at="2021-09-04T15:11:33 IST" duration-ms="18399" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign Up]]>
+            </line>
+            <line>
+              <![CDATA[Log In]]>
+            </line>
+            <line>
+              <![CDATA[Messenger]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Lite]]>
+            </line>
+            <line>
+              <![CDATA[Watch]]>
+            </line>
+            <line>
+              <![CDATA[Places]]>
+            </line>
+            <line>
+              <![CDATA[Games]]>
+            </line>
+            <line>
+              <![CDATA[Marketplace]]>
+            </line>
+            <line>
+              <![CDATA[Facebook Pay]]>
+            </line>
+            <line>
+              <![CDATA[Jobs]]>
+            </line>
+            <line>
+              <![CDATA[Oculus]]>
+            </line>
+            <line>
+              <![CDATA[Portal]]>
+            </line>
+            <line>
+              <![CDATA[Instagram]]>
+            </line>
+            <line>
+              <![CDATA[Local]]>
+            </line>
+            <line>
+              <![CDATA[Fundraisers]]>
+            </line>
+            <line>
+              <![CDATA[Services]]>
+            </line>
+            <line>
+              <![CDATA[Voting Information Centre]]>
+            </line>
+            <line>
+              <![CDATA[About]]>
+            </line>
+            <line>
+              <![CDATA[Create ad]]>
+            </line>
+            <line>
+              <![CDATA[Create Page]]>
+            </line>
+            <line>
+              <![CDATA[Developers]]>
+            </line>
+            <line>
+              <![CDATA[Careers]]>
+            </line>
+            <line>
+              <![CDATA[Privacy]]>
+            </line>
+            <line>
+              <![CDATA[Cookies]]>
+            </line>
+            <line>
+              <![CDATA[AdChoices]]>
+            </line>
+            <line>
+              <![CDATA[Terms]]>
+            </line>
+            <line>
+              <![CDATA[Help]]>
+            </line>
+            <line>
+              <![CDATA[Settings]]>
+            </line>
+            <line>
+              <![CDATA[Activity log]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.fb.login.TC005@4bb33f74]" started-at="2021-09-04T15:11:33 IST" name="browserClose" finished-at="2021-09-04T15:11:34 IST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.fb.login.TC005 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Facebook -->
+</testng-results>
