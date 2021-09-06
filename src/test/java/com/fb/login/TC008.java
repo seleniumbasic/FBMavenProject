@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import com.fb.commons.Commons;
 import com.fb.commons.OpenBrowser;
 
-public class TC007 extends Commons
+public class TC008 extends Commons
 
 	{
 	public WebDriver driver;
